@@ -1,1 +1,6 @@
 .conda
+*.geojson
+*.gpkg
+*.qmd
+*.qgz
+cache
