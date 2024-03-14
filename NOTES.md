@@ -16,3 +16,4 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 For Windows: https://github.com/coreybutler/nvm-windows/releases
 
 
+# https://cdn.kadastr.live/tiles/maps/kadastr/{z}/{x}/{y}.pbf
